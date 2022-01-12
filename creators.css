@@ -77,11 +77,17 @@ body {
     border-radius: 25px 25px 25px 25px;
     size: 25px;
     height: 290px;
+    position: relative;
+    margin-top: 70px;
 }
 .container{
     display: flex;
+}
+
+.cont {
+    display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .contact {
