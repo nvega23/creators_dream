@@ -2,15 +2,15 @@
     border: solid 2px gray;
     height: 100%;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     align-content: space-between;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .item{
     width: 20%;
     margin: 1px;
     display: flex;
+    margin-top: 20px;
     flex-direction: row;
     flex-wrap: wrap;
     align-content: space-around;
@@ -30,4 +30,7 @@ h1{
     red);
     color: peachpuff;
     font-family: cursive;
+}
+h4 {
+    justify-content: center;
 }
