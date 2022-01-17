@@ -21,14 +21,13 @@
     margin-top: 200px;
 }
 body{
-    background-color: black;
+    background-color: rgb(224, 165, 252);
     text-align: center;
 }
 h1{
     text-align: center;
-    background: linear-gradient(150deg, orange, rgb(255, 0, 255), orange,
-    red);
-    color: peachpuff;
+    background-color:rgb(224, 165, 252);
+    color: white;
     font-family: cursive;
 }
 h4 {
