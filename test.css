@@ -2,6 +2,7 @@
     border: solid 2px gray;
     height: 100%;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: space-between;
@@ -31,5 +32,121 @@ h1{
     font-family: cursive;
 }
 h4 {
+    justify-content: center;
+}
+.cups {
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.cupsf {
+    background-image: url(file:///Users/nestorvega/Desktop/creators_dream/IMG_7147.jpg);
+    margin: 20px;
+}
+
+.cupstext {
+    border: solid 2px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(224, 165, 252);
+    justify-content: center;
+}
+
+
+
+.shirts {
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.shirtsf {
+    background-image: url(file:///Users/nestorvega/Desktop/creators_dream/pokeimg.jpeg);
+    margin: 20px;
+}
+
+.shirtstext {
+    border: solid 2px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(224, 165, 252);
+    justify-content: center;
+}
+
+.anime {
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.animef {
+    background-image: url(file:///Users/nestorvega/Desktop/creators_dream/anime.jpg);
+    margin: 20px;
+}
+
+.animetext {
+    border: solid 2px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(224, 165, 252);
+    justify-content: center;
+}
+
+.mug {
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.mugf {
+    background-image: url(file:///Users/nestorvega/Desktop/creators_dream/mug.jpg);
+    margin: 20px;
+}
+
+.mugtext {
+    border: solid 2px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(224, 165, 252);
+    justify-content: center;
+}
+
+.scent {
+    align-items: center;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.scentf {
+    background-image: url(file:///Users/nestorvega/Desktop/creators_dream/scent.jpg);
+    margin: 20px;
+}
+
+.scenttext {
+    border: solid 2px;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(224, 165, 252);
     justify-content: center;
 }
