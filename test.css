@@ -25,10 +25,13 @@ body{
     background-color: rgb(224, 165, 252);
     text-align: center;
 }
-h1{
+.header{
     text-align: center;
     background-color:rgb(224, 165, 252);
-    color: white;
+    color: rgba(132, 0, 255, 0.308);
+    border: solid; border-width: .9;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 1px 1px 10px 10px rgb(255, 255, 255);
     font-family: cursive;
 }
 h4 {
@@ -43,6 +46,7 @@ h4 {
 .cupsf {
     background-image: url(file:///Users/nestorvega/Desktop/creators_dream/IMG_7147.jpg);
     margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(78, 78, 78);
 }
 
 .cupstext {
@@ -68,6 +72,7 @@ h4 {
 .shirtsf {
     background-image: url(file:///Users/nestorvega/Desktop/creators_dream/pokeimg.jpeg);
     margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(78, 78, 78);
 }
 
 .shirtstext {
@@ -91,6 +96,7 @@ h4 {
 .animef {
     background-image: url(file:///Users/nestorvega/Desktop/creators_dream/anime.jpg);
     margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(78, 78, 78);
 }
 
 .animetext {
@@ -114,6 +120,7 @@ h4 {
 .mugf {
     background-image: url(file:///Users/nestorvega/Desktop/creators_dream/mug.jpg);
     margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(78, 78, 78);
 }
 
 .mugtext {
@@ -137,6 +144,7 @@ h4 {
 .scentf {
     background-image: url(file:///Users/nestorvega/Desktop/creators_dream/scent.jpg);
     margin: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(78, 78, 78);
 }
 
 .scenttext {
